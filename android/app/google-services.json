@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "828925141581",
+    "project_id": "mero-share-assistance",
+    "storage_bucket": "mero-share-assistance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828925141581:android:b026b9245a1ad681ba7204",
+        "android_client_info": {
+          "package_name": "np.com.sujangainju.hdwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828925141581-08cc18pqvikkh80iv74ot3mgih0sle78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNfZpee8GwXD3N1MhtLo8OZ8eGy0c77SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828925141581-08cc18pqvikkh80iv74ot3mgih0sle78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828925141581:android:61c49dbbe1631a5aba7204",
+        "android_client_info": {
+          "package_name": "np.com.sujangainju.mero_share_assistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828925141581-08cc18pqvikkh80iv74ot3mgih0sle78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNfZpee8GwXD3N1MhtLo8OZ8eGy0c77SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828925141581-08cc18pqvikkh80iv74ot3mgih0sle78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
